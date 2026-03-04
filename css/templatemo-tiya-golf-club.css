@@ -144,7 +144,7 @@ strong {
 
 .section-overlay {
   content: "";
-  background: rgba(0, 0, 0, 0) linear-gradient(rgba(39, 48, 83, 0.01) 0%, rgb(39, 48, 83) 100%) repeat scroll 0% 0%;
+  background: rgba(0, 0, 0, 0) linear-gradient(rgba(39, 48, 83, 0.01) 0%, rgb(161, 4, 240) 100%) repeat scroll 0% 0%;
   position: absolute;
   top: 0;
   right: 0;
@@ -438,7 +438,7 @@ strong {
 }
 
 .sticky-wrapper.is-sticky .navbar {
-  background-color: rgb(255, 0, 174);
+  background-color: rgb(161, 4, 240);
 }
 
 .navbar {
