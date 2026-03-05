@@ -438,7 +438,7 @@ strong {
 }
 
 .sticky-wrapper.is-sticky .navbar {
-  background-color: rgb(67, 64, 109);
+  background-color: rgb(109, 99, 241);
 }
 
 .navbar {
@@ -695,7 +695,7 @@ strong {
   BACKGROUND IMAGE SECTION        
 -----------------------------------------*/
 .section-bg-image {
-  background-image: url('../images/frederik-rosar-NDSZcCfnsbY-unsplash.jpg');
+  background-image: url('https://i.pinimg.com/736x/52/1d/d4/521dd404deb084f1569562f9ae83935e.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
